@@ -5,12 +5,18 @@ minima:
   skin: solarized
 
 # Customizations from https://github.com/jekyll/minima
-header_pages:
-  - about.md
-  - portfolio.md
-
 minima:
   social_links:
     - platform: twitter
       user_url: "https://twitter.com/yourarlington"
       title: Your Arlington On Twitter
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: page
