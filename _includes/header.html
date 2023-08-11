@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="/assets/YA-new.png" alt="YourArlington logo" style="border: 3px outset #cabfa0; margin: 10px 14px 10px 10px; float: left;" title="YourArlington logo" width="300" height="85"></a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="{{ 'assets/YA-new.png' | relative_url }}" alt="YourArlington logo" style="border: 3px outset #cabfa0; margin: 10px 14px 10px 10px; float: left;" title="YourArlington logo" width="300" height="85"></a>
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
