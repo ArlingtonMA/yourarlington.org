@@ -2,14 +2,19 @@ title: Your Arlington
 description: A local non-profit dedicated to providing citizen journalism to Arlington, MA.
 theme: minima
 
-# Customizations from https://github.com/jekyll/minima
-minima:
-  skin: solarized
-  social_links:
-    - platform: twitter
-      user_url: "https://twitter.com/yourarlington"
-      title: Your Arlington On Twitter
+# Customizations from https://github.com/jekyll/minima version 2.5.1
+twitter_username: yourarlington
 
+# Customizations for jekyll-seo-tag
+twitter:
+  username: yourarlington
+  card: summary
+social:
+  name: Your Arlington
+  links:
+    - https://twitter.com/YourArlington
+
+# Jekyll settings
 include:
   - _pages
 
