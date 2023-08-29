@@ -1,9 +1,15 @@
 title: Your Arlington
 description: A local non-profit dedicated to providing citizen journalism to Arlington, MA.
 theme: minima
+author: Your Arlington Volunteers And Staff
 
 # Customizations from https://github.com/jekyll/minima version 2.5.1
 twitter_username: yourarlington
+
+header_pages:
+  - donate.md
+  - volunteer.md
+  - about.md
 
 # Customizations for jekyll-seo-tag
 twitter:

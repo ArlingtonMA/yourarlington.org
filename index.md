@@ -5,27 +5,27 @@ seo:
   type: Organization
   links: 
     - https://yourarlington.com/
-
 ---
 
 Welcome to the Your Arlington-org, Inc. homepage for the non-profit arm of your [favorite Arlington news site](https://yourarlington.com/?np)!
-
-This is an proof of concept of what an `yourarlington.org` website *could* be, to allow the non-profit to showcase itself more easily, and keep clear the editorial independence of the newspaper.  It's up to the Board to decide if a website like this is needed or not.  
-
-Total cost would be $20/annually for the domain name.  This is hosted on GitHub Pages, meaning hosting is free of both cost and any maintenance.  Shane built this entire site in half a day, and can volunteer to do all basic maintenance.  Shane can also help [train](https://stackedit.io/) a few folks on how to use [GitHub Pages and Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax); there are plenty of [tutorials for non-coders](https://dannguyen.github.io/github-for-portfolios/).  All work is done through your web browser; no tools required.  You can see the [source for this page in GitHub](https://github.com/ArlingtonMA/yourarlington.org/blob/main/index.md).
 
 ### All About The Nonprofit
 
 *Example pages the non-profit might want to highlight somehow.*
 
 - [About Your Arlington](/about)
-- [The Your Arlington Board](/board)
-- Donate!
-- Financial Transparency
+- [Board of Directors](/board)
+- [Donate!](/donate)
+- [Volunteer](/volunteer)
 - Non-profit Policies
 - [Your Arlington History](/history)
 - Editorial Independence
 
+### What This Website Is
+
+This is an proof of concept of what an `yourarlington.org` website *could* be, to allow the non-profit to showcase itself more easily, and keep clear the editorial independence of the newspaper.  It's up to the Board to decide if a website like this is needed or not.  
+
+Total cost would be $20/annually for the domain name.  This is hosted on GitHub Pages, meaning hosting is free of both cost and any maintenance.  Shane built this entire site in half a day, and can volunteer to do all basic maintenance.  Shane can also help [train](https://stackedit.io/) a few folks on how to use [GitHub Pages and Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax); there are plenty of [tutorials for non-coders](https://dannguyen.github.io/github-for-portfolios/).  All work is done through your web browser; no tools required.  You can see the [source for this page in GitHub](https://github.com/ArlingtonMA/yourarlington.org/blob/main/index.md).
 ### Journo Ipsum
 
 *Courtesy of the Nieman Foundation at Harvard, we bring you the finest Lorem Ipsum filler text.*
