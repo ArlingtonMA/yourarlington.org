@@ -4,7 +4,7 @@ title: "About Your Arlington - Non-Profit News Organization"
 permalink: /about/
 ---
 
-YourArlington.org Inc. is an IRS-recognized 501(c)3 non-profit.  The [Your Arlington Board](/board/) manages the non-profit to ensure a stable and sustainable home for the [Your Arlington news organization](https://yourarlington.com/), which is run with editorial independence.  Your Arlington has a [long history of covering news](/history/) in our town, with an independent and local flair.
+YourArlington.org Inc. is an IRS-recognized 501(c)3 non-profit.  The [Your Arlington Board](/yourarlington.org/board/) manages the non-profit to ensure a stable and sustainable home for the [Your Arlington news organization](https://yourarlington.com/), which is run with editorial independence.  Your Arlington has a [long history of covering news](/yourarlington.org/history/) in our town, with an independent and local flair.
 
 Your Arlington's EIN is 87-1248884 and you can look up records on [ProPublica's Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/871248884), where IRS Form 990s will appear a while after they are filed with the IRS.
 

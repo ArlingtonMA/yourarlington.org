@@ -12,6 +12,7 @@ The Board of Directors manages the non-profit for the profit of all news readers
 - Carl Bearenstein
 
 *TODO This page could also list the advisory board, and point to a staff page of the news side.*
+*TODO this page would also list board meeting minutes, once approved for publishing, which helps donors understand how the non-profit is managed*
 
 *Courtesy of the Nieman Foundation at Harvard, we bring you the finest Lorem Ipsum filler text.*
 

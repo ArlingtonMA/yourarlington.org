@@ -28,7 +28,7 @@ permalink: /donate/
 
 
 
-Guided by an Arlington-based [volunteer board of directors](/board/), YourArlington seeks support from individuals, families, organizations and businesses who, as we do, believe that an informed public is essential to democracy.  As a 501(c)3 non-profit organization, donations are also tax deductible for most donors.
+Guided by an Arlington-based [volunteer board of directors](/yourarlington.org/board/), YourArlington seeks support from individuals, families, organizations and businesses who, as we do, believe that an informed public is essential to democracy.  As a 501(c)3 non-profit organization, donations are also tax deductible for most donors.
 
 <a href="https://yourarlington.com/donate/donate-to-your-arlington-one-time-donation.html" class="myButton">Make a one-time Donation!</a>
 

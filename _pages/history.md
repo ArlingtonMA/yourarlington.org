@@ -14,7 +14,9 @@ The phrase gained currency through *[We the Media](https://en.wikipedia.org/wiki
 <p class="yacopied">Sprague is a member of the <a href="http://www.arlcc.org/index.php" target="_blank" rel="noopener noreferrer">Arlington Chamber of Commerce</a>.</p>
 <p class="yacopied">The site is a member of&nbsp;<a href="http://www.lionpublishers.com/" target="_blank" rel="noopener noreferrer">LION Publishers</a>, which stands for Local Independent Online News Publishers, and also a member of the <a href="https://inn.org/" target="_blank" rel="noopener">Institute for Nonprofit News</a>.</p>
 
+Your Arlington is now a non-profit with a [Board of Directors made up of Arlingtonians](/yourarlington.org/board/), and relies on [your donations](/yourarlington.org/donate/) to keep our independent local news coming!
 
+*TODO this page would focus just on the History of YA, separating it from other board/about/org information.*
 
 ### More Journo Ipsum Filler Text 
 
