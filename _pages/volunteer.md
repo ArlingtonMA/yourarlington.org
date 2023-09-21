@@ -6,7 +6,7 @@ permalink: /volunteer/
 
 With Your Arlington's recent change to become a 501(c)3 non-profit, we need committed Arlingtonians to help - both through [donations](/yourarlington.org/donate/) and volunteering.
 
-To maintain the local news coverage of Arlington you rely on, we use the bulk of our donations to help pay for editors, reporters, and our website systems to keep the news flowing.  That means we could always use help on the nonprofit side with [governance](/yourarlington.org/board/), [fundraising](/yourarlington.org/donate/), and more.
+To maintain the local news coverage of Arlington you rely on, we use the bulk of our donations to help pay for editors, reporters, and our website systems to keep the news flowing.  That means we could always use help on the nonprofit side with [governance](/yourarlington.org/board/), [fundraising](/yourarlington.org/donate/), and more behind-the-scenes tasks to keep the organization running.
 
 *What would a call to volunteer action be?  Would it change regularly, depending on needs? What other public information could we provide here to help attract useful new volunteers?*  
 

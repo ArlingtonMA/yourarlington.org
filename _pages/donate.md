@@ -27,14 +27,13 @@ permalink: /donate/
 </style>
 
 
-
-Guided by an Arlington-based [volunteer board of directors](/yourarlington.org/board/), YourArlington seeks support from individuals, families, organizations and businesses who, as we do, believe that an informed public is essential to democracy.  As a 501(c)3 non-profit organization, donations are also tax deductible for most donors.
+Guided by an Arlington-based [volunteer board of directors](/yourarlington.org/board/), YourArlington seeks support from individuals, families, organizations and businesses who, as we do, believe that an informed public is essential to democracy.  As a 501(c)3 non-profit organization, individual donations are tax deductible for most donors.
 
 <a href="https://yourarlington.com/donate/donate-to-your-arlington-one-time-donation.html" class="myButton">Make a one-time Donation!</a>
 
 <a href="https://yourarlington.com/donate/recurring-monthly-donations.html" class="myButton">Become a supporter and Donate monthly</a>
 
-*TODO This page could have a custom layout that's easy to change depending on what fundraising campaigns are being run currently*
+*TODO This page could have a custom layout that's easy to change depending on what fundraising campaigns are being run currently.  This page could also include or link to a listing of any major donors or corporate sponsors once policy for listing donors is decided.*
 
 ### Non-profit Journo Ipsum Sample
 

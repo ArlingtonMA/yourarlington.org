@@ -4,14 +4,16 @@ title: "Your Arlington's Board"
 permalink: /board/
 ---
 
-The Board of Directors manages the non-profit for the profit of all news readers.  Board members include:
+The Board of Directors manages the non-profit for the profit of all news readers.  The [news staff at Your Arlington](https://yourarlington.com/about) operate with full editorial independence from the non-profit board.
+
+Current Board members include:
 
 - Walter Cronkitty
 - William Heardst
 - Katherine Grahamcracker
 - Carl Bearenstein
 
-*TODO This page could also list the advisory board, and point to a staff page of the news side.*
+*TODO This page could also list the advisory board, corporate officers, and point to a staff page of the news side.*
 *TODO this page would also list board meeting minutes, once approved for publishing, which helps donors understand how the non-profit is managed*
 
 *Courtesy of the Nieman Foundation at Harvard, we bring you the finest Lorem Ipsum filler text.*
